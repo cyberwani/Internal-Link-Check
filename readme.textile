@@ -54,7 +54,7 @@ EN/DE ("Patrick Matsumura":https://github.com/patrickmatsumura)
 
 h4. Authors
 
-visit "Franz Josef Kaiser":https://github.com/franz-josef-kaiser at github | or get social at "G+":https://plus.google.com/u/0/107110219316412982437
+visit "Franz Josef Kaiser":https://github.com/franz-josef-kaiser at github | or get social at "G+":https://plus.google.com/u/0/107110219316412982437?rel=author
 visit "Patrick Matsumura":https://github.com/patrickmatsumura at github | or get social at "G+":https://plus.google.com/u/0/110601372184256601089
 
 ----------------------------------------------------------------
